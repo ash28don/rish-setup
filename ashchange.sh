@@ -1,7 +1,9 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/usr/bin/env sh
 
-# ashchange.sh - Email & Password change for CPM1/CPM2 accounts
-# Dependencies: curl, jq
+# ASH CHANGE TOOL
+# Email & Password manager for CPM1 / CPM2
+# Compatible with Termux & iSH
+# Requires: curl, jq
 
 while true; do
     clear
@@ -9,9 +11,35 @@ while true; do
     echo "        ASH CHANGE TOOL"
     echo "    Email & Password Manager"
     echo "====================================="
+    echo
+    echo "1) Login"
+    echo "2) Exit"
+    echo
+    printf "Select option: "
+    read mainChoice
 
-    # -------- GAME SELECT --------
-    read -p "Select Game (1=CPM1, 2=CPM2): " gameChoice
+    case "$mainChoice" in
+        1)
+            ;;
+        2)
+            echo "[*] Exiting script..."
+            sleep 1
+            exit 0
+            ;;
+        *)
+            echo "[!] Invalid option"
+            sleep 1
+            continue
+            ;;
+    esac
+
+    clear
+    echo "Select Game:"
+    echo "1) CPM1"
+    echo "2) CPM2"
+    echo
+    printf "Choice: "
+    read gameChoice
 
     if [ "$gameChoice" = "1" ]; then
         API_KEY="AIzaSyBW1ZbMiUeDZHYUO2bY8Bfnf5rRgrQGPTM"
@@ -20,15 +48,17 @@ while true; do
         API_KEY="AIzaSyCQDz9rgjgmvmFkvVfmvr2-7fT4tfrzRRQ"
         GAME_NAME="CPM2"
     else
-        echo "[!] Invalid choice"
+        echo "[!] Invalid game selection"
         sleep 1
         continue
     fi
 
-    # -------- LOGIN --------
     echo
-    read -p "Email: " EMAIL
-    read -p "Password: " PASSWORD
+    printf "Email: "
+    read EMAIL
+    printf "Password: "
+    read PASSWORD
+
     echo
     echo "[*] Logging in..."
 
@@ -40,25 +70,36 @@ while true; do
     ID_TOKEN=$(echo "$LOGIN_RESPONSE" | jq -r '.idToken')
     LOCAL_EMAIL=$(echo "$LOGIN_RESPONSE" | jq -r '.email')
 
-    if [ "$ID_TOKEN" = "null" ] || [ -z "$ID_TOKEN" ]; then
-        echo "[!] Login failed: $(echo "$LOGIN_RESPONSE" | jq -r '.error.message')"
+    if [ -z "$ID_TOKEN" ] || [ "$ID_TOKEN" = "null" ]; then
+        echo "[!] Login failed"
+        echo "Reason: $(echo "$LOGIN_RESPONSE" | jq -r '.error.message')"
         sleep 2
         continue
     fi
 
-    echo "[✓] Logged in as $LOCAL_EMAIL on $GAME_NAME"
+    echo "[✓] Logged in as $LOCAL_EMAIL ($GAME_NAME)"
+    sleep 1
 
-    # -------- ACCOUNT MENU --------
     while true; do
+        clear
+        echo "====================================="
+        echo " Logged in: $LOCAL_EMAIL"
+        echo " Game: $GAME_NAME"
+        echo "====================================="
         echo
         echo "1) Change Email"
         echo "2) Change Password"
-        echo "3) Logout / New Account"
-        read -p "Select an option: " opt
+        echo "3) Logout"
+        echo "4) Exit Script"
+        echo
+        printf "Select option: "
+        read opt
 
         case "$opt" in
             1)
-                read -p "New Email: " NEW_EMAIL
+                printf "New Email: "
+                read NEW_EMAIL
+
                 CHANGE=$(curl -s -X POST \
                     "https://identitytoolkit.googleapis.com/v1/accounts:update?key=$API_KEY" \
                     -H "Content-Type: application/json" \
@@ -67,17 +108,19 @@ while true; do
                 UPDATED_EMAIL=$(echo "$CHANGE" | jq -r '.email')
                 NEW_TOKEN=$(echo "$CHANGE" | jq -r '.idToken')
 
-                if [ "$UPDATED_EMAIL" != "null" ] && [ -n "$UPDATED_EMAIL" ]; then
+                if [ -n "$UPDATED_EMAIL" ] && [ "$UPDATED_EMAIL" != "null" ]; then
                     ID_TOKEN="$NEW_TOKEN"
                     LOCAL_EMAIL="$UPDATED_EMAIL"
-                    echo "[✓] Email changed to $LOCAL_EMAIL"
+                    echo "[✓] Email updated successfully"
                 else
                     echo "[!] Failed: $(echo "$CHANGE" | jq -r '.error.message')"
                 fi
+                sleep 2
                 ;;
             2)
-                read -p "New Password: " NEW_PASS
-                echo
+                printf "New Password: "
+                read NEW_PASS
+
                 CHANGE=$(curl -s -X POST \
                     "https://identitytoolkit.googleapis.com/v1/accounts:update?key=$API_KEY" \
                     -H "Content-Type: application/json" \
@@ -85,24 +128,27 @@ while true; do
 
                 NEW_TOKEN=$(echo "$CHANGE" | jq -r '.idToken')
 
-                if [ "$NEW_TOKEN" != "null" ] && [ -n "$NEW_TOKEN" ]; then
+                if [ -n "$NEW_TOKEN" ] && [ "$NEW_TOKEN" != "null" ]; then
                     ID_TOKEN="$NEW_TOKEN"
-                    echo "[✓] Password changed successfully!"
+                    echo "[✓] Password changed successfully"
                 else
                     echo "[!] Failed: $(echo "$CHANGE" | jq -r '.error.message')"
                 fi
+                sleep 2
                 ;;
             3)
-                echo "[*] Logging out..."
-                ID_TOKEN=""
-                LOCAL_EMAIL=""
-                EMAIL=""
-                PASSWORD=""
+                echo "[*] Logged out"
                 sleep 1
                 break
                 ;;
+            4)
+                echo "[*] Exiting script..."
+                sleep 1
+                exit 0
+                ;;
             *)
                 echo "[!] Invalid option"
+                sleep 1
                 ;;
         esac
     done
