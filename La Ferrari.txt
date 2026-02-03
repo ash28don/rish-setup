@@ -1,0 +1,6442 @@
+{
+	"0" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4399414,
+			"y" : 0.420255661,
+			"z" : 0
+		},
+		"scaleRotation" : {
+			"x" : 1.24842,
+			"y" : 1.80720544,
+			"z" : 3.4481473
+		},
+		"iconPosition" : {
+			"x" : -0.706507444,
+			"y" : 0.243548065,
+			"z" : 0.8793864
+		},
+		"text" : "",
+		"color" : 4284572001,
+		"packedData" : 4893252096
+	}
+	},
+	"1" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.424072266,
+			"y" : 0.419553757,
+			"z" : 1
+		},
+		"scaleRotation" : {
+			"x" : 0.133873522,
+			"y" : 12.529952,
+			"z" : 1.46563041
+		},
+		"iconPosition" : {
+			"x" : -0.704259157,
+			"y" : 0.242843226,
+			"z" : 0.8910281
+		},
+		"text" : "",
+		"color" : 4283143945,
+		"packedData" : 4893179904
+	}
+	},
+	"2" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4375,
+			"y" : 0.433044434,
+			"z" : 2
+		},
+		"scaleRotation" : {
+			"x" : 0.133873522,
+			"y" : 12.6491871,
+			"z" : 1.46563041
+		},
+		"iconPosition" : {
+			"x" : -0.700203657,
+			"y" : 0.250937432,
+			"z" : 0.8800461
+		},
+		"text" : "",
+		"color" : 4294967295,
+		"packedData" : 4893179904
+	}
+	},
+	"3" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.449707031,
+			"y" : 0.432893753,
+			"z" : 3
+		},
+		"scaleRotation" : {
+			"x" : 0.133873522,
+			"y" : 12.6794767,
+			"z" : 1.46563041
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4280556270,
+		"packedData" : 4893179904
+	}
+	},
+	"4" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.444824219,
+			"y" : 0.441022873,
+			"z" : 4
+		},
+		"scaleRotation" : {
+			"x" : 2.60891318,
+			"y" : 2.76856565,
+			"z" : 0.69664824
+		},
+		"iconPosition" : {
+			"x" : -0.6977218,
+			"y" : 0.2557266,
+			"z" : 0.8740058
+		},
+		"text" : "",
+		"color" : 671088639,
+		"packedData" : 4893243904
+	}
+	},
+	"5" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.405273438,
+			"y" : 0.428705215,
+			"z" : 5
+		},
+		"scaleRotation" : {
+			"x" : 0.291184843,
+			"y" : 1.14162886,
+			"z" : 12.5057592
+		},
+		"iconPosition" : {
+			"x" : -0.6970248,
+			"y" : 0.247845814,
+			"z" : 0.9039525
+		},
+		"text" : "",
+		"color" : 1509949440,
+		"packedData" : 4893243904
+	}
+	},
+	"6" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.399169922,
+			"y" : 0.433729172,
+			"z" : 6
+		},
+		"scaleRotation" : {
+			"x" : 0.29340595,
+			"y" : 0.9143887,
+			"z" : 341.557678
+		},
+		"iconPosition" : {
+			"x" : -0.693744242,
+			"y" : 0.2506768,
+			"z" : 0.907973051
+		},
+		"text" : "",
+		"color" : 1912602624,
+		"packedData" : 4893243904
+	}
+	},
+	"7" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.431640625,
+			"y" : 0.444892883,
+			"z" : 7
+		},
+		"scaleRotation" : {
+			"x" : 0.917739332,
+			"y" : 1.68145525,
+			"z" : 156.118622
+		},
+		"iconPosition" : {
+			"x" : -0.6938347,
+			"y" : 0.25776124,
+			"z" : 0.883295536
+		},
+		"text" : "",
+		"color" : 2449473536,
+		"packedData" : 4893243904
+	}
+	},
+	"8" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4260254,
+			"y" : 0.477144241,
+			"z" : 8
+		},
+		"scaleRotation" : {
+			"x" : 0.5321489,
+			"y" : 0.987392,
+			"z" : 85.4864
+		},
+		"iconPosition" : {
+			"x" : -0.6781859,
+			"y" : 0.276537865,
+			"z" : 0.8846029
+		},
+		"text" : "",
+		"color" : 2717908992,
+		"packedData" : 4893243904
+	}
+	},
+	"9" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.439453125,
+			"y" : 0.419322968,
+			"z" : 9
+		},
+		"scaleRotation" : {
+			"x" : 0.915244,
+			"y" : 1.37298286,
+			"z" : 59.85885
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 2751463424,
+		"packedData" : 4893243904
+	}
+	},
+	"10" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.469482422,
+			"y" : 0.4285736,
+			"z" : 10
+		},
+		"scaleRotation" : {
+			"x" : 1.38037241,
+			"y" : 0.4598495,
+			"z" : 90.7198639
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 1694498816,
+		"packedData" : 4893243904
+	}
+	},
+	"11" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4494629,
+			"y" : 0.3879261,
+			"z" : 11
+		},
+		"scaleRotation" : {
+			"x" : 1.55847514,
+			"y" : 0.303750217,
+			"z" : 67.53668
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 3019898880,
+		"packedData" : 4893243904
+	}
+	},
+	"12" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.442138672,
+			"y" : 0.3909645,
+			"z" : 12
+		},
+		"scaleRotation" : {
+			"x" : 1.18186164,
+			"y" : 0.3513961,
+			"z" : 358.129425
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 2264924160,
+		"packedData" : 4893243904
+	}
+	},
+	"13" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.448730469,
+			"y" : 0.40908432,
+			"z" : 13
+		},
+		"scaleRotation" : {
+			"x" : 1.200104,
+			"y" : 1.13898671,
+			"z" : 99.42396
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"14" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.434082031,
+			"y" : 0.420171738,
+			"z" : 14
+		},
+		"scaleRotation" : {
+			"x" : 0.7380005,
+			"y" : 1.63493919,
+			"z" : 245.15184
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"15" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.446289063,
+			"y" : 0.423986435,
+			"z" : 15
+		},
+		"scaleRotation" : {
+			"x" : 0.7380005,
+			"y" : 0.454975367,
+			"z" : 317.979462
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893184008
+	}
+	},
+	"16" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.425048828,
+			"y" : 0.476179123,
+			"z" : 16
+		},
+		"scaleRotation" : {
+			"x" : 0.2218298,
+			"y" : 0.84037286,
+			"z" : 297.709625
+		},
+		"iconPosition" : {
+			"x" : -0.6784807,
+			"y" : 0.275964558,
+			"z" : 0.8854017
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"17" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.413818359,
+			"y" : 0.467729568,
+			"z" : 17
+		},
+		"scaleRotation" : {
+			"x" : 0.288675249,
+			"y" : 0.192147508,
+			"z" : 277.5603
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"18" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.424072266,
+			"y" : 0.46803093,
+			"z" : 18
+		},
+		"scaleRotation" : {
+			"x" : 0.459594071,
+			"y" : 0.237097114,
+			"z" : 5.112683
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"19" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.434082031,
+			"y" : 0.461994171,
+			"z" : 19
+		},
+		"scaleRotation" : {
+			"x" : 0.625216246,
+			"y" : 1.646317,
+			"z" : 1.108519
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"20" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4411621,
+			"y" : 0.405920029,
+			"z" : 20
+		},
+		"scaleRotation" : {
+			"x" : 0.625216,
+			"y" : 1.29206407,
+			"z" : 29.90564
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"21" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4020996,
+			"y" : 0.4231205,
+			"z" : 21
+		},
+		"scaleRotation" : {
+			"x" : 0.137362361,
+			"y" : 0.5050392,
+			"z" : 21.064558
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"22" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.405761719,
+			"y" : 0.417039871,
+			"z" : 22
+		},
+		"scaleRotation" : {
+			"x" : 0.171377882,
+			"y" : 0.3960094,
+			"z" : 26.3401871
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"23" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4086914,
+			"y" : 0.4123783,
+			"z" : 23
+		},
+		"scaleRotation" : {
+			"x" : 0.222289175,
+			"y" : 0.3960094,
+			"z" : 26.3401871
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"24" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.410644531,
+			"y" : 0.429393768,
+			"z" : 24
+		},
+		"scaleRotation" : {
+			"x" : 0.289969385,
+			"y" : 0.750260651,
+			"z" : 64.0435944
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"25" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.401855469,
+			"y" : 0.430639267,
+			"z" : 25
+		},
+		"scaleRotation" : {
+			"x" : 0.277874,
+			"y" : 0.378764153,
+			"z" : 145.859222
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"26" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4189453,
+			"y" : 0.448495865,
+			"z" : 26
+		},
+		"scaleRotation" : {
+			"x" : 0.277873874,
+			"y" : 0.803865433,
+			"z" : 141.9225
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"27" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.437988281,
+			"y" : 0.452978134,
+			"z" : 27
+		},
+		"scaleRotation" : {
+			"x" : 0.2778738,
+			"y" : 0.8038658,
+			"z" : 182.799911
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"28" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4267578,
+			"y" : 0.436182022,
+			"z" : 28
+		},
+		"scaleRotation" : {
+			"x" : 0.878563046,
+			"y" : 1.26159811,
+			"z" : 311.219177
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893182472
+	}
+	},
+	"29" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.428710938,
+			"y" : 0.445400238,
+			"z" : 29
+		},
+		"scaleRotation" : {
+			"x" : 0.6630912,
+			"y" : 1.26159787,
+			"z" : 320.061584
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893182472
+	}
+	},
+	"30" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4111328,
+			"y" : 0.4364624,
+			"z" : 30
+		},
+		"scaleRotation" : {
+			"x" : 1.19563782,
+			"y" : 0.34120208,
+			"z" : 320.061584
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"31" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.399169922,
+			"y" : 0.437517166,
+			"z" : 31
+		},
+		"scaleRotation" : {
+			"x" : 0.712009,
+			"y" : 0.1774539,
+			"z" : 260.393738
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"32" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.396728516,
+			"y" : 0.4263134,
+			"z" : 32
+		},
+		"scaleRotation" : {
+			"x" : 0.385334849,
+			"y" : 0.179235414,
+			"z" : 270.1818
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893229576
+	}
+	},
+	"33" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.421386719,
+			"y" : 0.474908829,
+			"z" : 33
+		},
+		"scaleRotation" : {
+			"x" : 3.00327325,
+			"y" : 3.81139278,
+			"z" : 120.22081
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4292342524,
+		"packedData" : 4893180697
+	}
+	},
+	"34" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.423339844,
+			"y" : 0.468708038,
+			"z" : 34
+		},
+		"scaleRotation" : {
+			"x" : 3.0032773,
+			"y" : 3.81139827,
+			"z" : 109.853058
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180697
+	}
+	},
+	"35" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.422119141,
+			"y" : 0.471689224,
+			"z" : 35
+		},
+		"scaleRotation" : {
+			"x" : 0.137362227,
+			"y" : 0.367939979,
+			"z" : 198.166458
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893180184
+	}
+	},
+	"36" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.419921875,
+			"y" : 0.449808121,
+			"z" : 36
+		},
+		"scaleRotation" : {
+			"x" : 0.277873874,
+			"y" : 0.662164867,
+			"z" : 130.839813
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"37" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.431152344,
+			"y" : 0.476100922,
+			"z" : 37
+		},
+		"scaleRotation" : {
+			"x" : 0.590397,
+			"y" : 0.224982277,
+			"z" : 115.733047
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893229568
+	}
+	},
+	"38" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.426269531,
+			"y" : 0.474948883,
+			"z" : 38
+		},
+		"scaleRotation" : {
+			"x" : 0.590397,
+			"y" : 0.224982277,
+			"z" : 115.733047
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893229568
+	}
+	},
+	"39" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4260254,
+			"y" : 0.47697258,
+			"z" : 39
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.294545382,
+			"z" : 242.078369
+		},
+		"iconPosition" : {
+			"x" : -0.6782659,
+			"y" : 0.2764386,
+			"z" : 0.8846184
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"40" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.42578125,
+			"y" : 0.478158951,
+			"z" : 40
+		},
+		"scaleRotation" : {
+			"x" : 0.1373624,
+			"y" : 0.29454565,
+			"z" : 238.583588
+		},
+		"iconPosition" : {
+			"x" : -0.6776809,
+			"y" : 0.277125925,
+			"z" : 0.884693146
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"41" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.435546875,
+			"y" : 0.47675705,
+			"z" : 41
+		},
+		"scaleRotation" : {
+			"x" : 0.1373624,
+			"y" : 0.316980451,
+			"z" : 125.124054
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"42" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438964844,
+			"y" : 0.442306519,
+			"z" : 42
+		},
+		"scaleRotation" : {
+			"x" : 0.137362391,
+			"y" : 0.316980332,
+			"z" : 89.71097
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"43" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438964844,
+			"y" : 0.445749283,
+			"z" : 43
+		},
+		"scaleRotation" : {
+			"x" : 0.137362257,
+			"y" : 0.316980064,
+			"z" : 113.898193
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"44" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438964844,
+			"y" : 0.4534912,
+			"z" : 44
+		},
+		"scaleRotation" : {
+			"x" : 0.233986482,
+			"y" : 0.387830645,
+			"z" : 98.54227
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"45" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.436523438,
+			"y" : 0.456581116,
+			"z" : 45
+		},
+		"scaleRotation" : {
+			"x" : 0.137362316,
+			"y" : 0.387830377,
+			"z" : 57.7039871
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"46" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.441894531,
+			"y" : 0.4611454,
+			"z" : 46
+		},
+		"scaleRotation" : {
+			"x" : 0.137362435,
+			"y" : 0.387830764,
+			"z" : 51.87914
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"47" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4350586,
+			"y" : 0.440420151,
+			"z" : 47
+		},
+		"scaleRotation" : {
+			"x" : 0.137362257,
+			"y" : 0.4279329,
+			"z" : 86.36504
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"48" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.431884766,
+			"y" : 0.442764282,
+			"z" : 48
+		},
+		"scaleRotation" : {
+			"x" : 0.137362257,
+			"y" : 0.4279329,
+			"z" : 86.36504
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"49" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.436035156,
+			"y" : 0.4434681,
+			"z" : 49
+		},
+		"scaleRotation" : {
+			"x" : 0.160056055,
+			"y" : 0.427932978,
+			"z" : 101.630821
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"50" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.447021484,
+			"y" : 0.44512558,
+			"z" : 50
+		},
+		"scaleRotation" : {
+			"x" : 0.137362331,
+			"y" : 0.137362331,
+			"z" : 75.35576
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"51" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.445556641,
+			"y" : 0.467950821,
+			"z" : 51
+		},
+		"scaleRotation" : {
+			"x" : 0.137362316,
+			"y" : 0.137362316,
+			"z" : 58.5733871
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"52" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.445556641,
+			"y" : 0.469358444,
+			"z" : 52
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.208212644,
+			"z" : 90.98563
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"53" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4465332,
+			"y" : 0.46208,
+			"z" : 53
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.208212644,
+			"z" : 36.4855
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"54" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.440673828,
+			"y" : 0.477350235,
+			"z" : 54
+		},
+		"scaleRotation" : {
+			"x" : 0.137362272,
+			"y" : 0.208212525,
+			"z" : 42.7544823
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"55" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.447265625,
+			"y" : 0.4723072,
+			"z" : 55
+		},
+		"scaleRotation" : {
+			"x" : 0.1373624,
+			"y" : 0.1373624,
+			"z" : 67.05523
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"56" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.444580078,
+			"y" : 0.449119568,
+			"z" : 56
+		},
+		"scaleRotation" : {
+			"x" : 0.137362361,
+			"y" : 0.137362361,
+			"z" : 84.8254852
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"57" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438964844,
+			"y" : 0.460330963,
+			"z" : 57
+		},
+		"scaleRotation" : {
+			"x" : 1.58707035,
+			"y" : 0.2449422,
+			"z" : 95.90197
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"58" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.442138672,
+			"y" : 0.390274048,
+			"z" : 58
+		},
+		"scaleRotation" : {
+			"x" : 0.197108656,
+			"y" : 0.329355657,
+			"z" : 80.06653
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"59" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.429443359,
+			"y" : 0.391433716,
+			"z" : 59
+		},
+		"scaleRotation" : {
+			"x" : 0.172905564,
+			"y" : 0.277446747,
+			"z" : 80.06653
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"60" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.424072266,
+			"y" : 0.391174316,
+			"z" : 60
+		},
+		"scaleRotation" : {
+			"x" : 0.341385663,
+			"y" : 0.180253759,
+			"z" : 357.618347
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893229568
+	}
+	},
+	"61" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.435302734,
+			"y" : 0.391645432,
+			"z" : 61
+		},
+		"scaleRotation" : {
+			"x" : 0.457677335,
+			"y" : 0.137362331,
+			"z" : 357.618347
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"62" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.440673828,
+			"y" : 0.400495529,
+			"z" : 62
+		},
+		"scaleRotation" : {
+			"x" : 0.4207637,
+			"y" : 0.2790503,
+			"z" : 168.8852
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"63" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.454589844,
+			"y" : 0.392951965,
+			"z" : 63
+		},
+		"scaleRotation" : {
+			"x" : 0.420763344,
+			"y" : 0.240512282,
+			"z" : 205.8851
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"64" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.445068359,
+			"y" : 0.375091553,
+			"z" : 64
+		},
+		"scaleRotation" : {
+			"x" : 0.338890016,
+			"y" : 0.1953319,
+			"z" : 225.099854
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"65" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.453857422,
+			"y" : 0.385320663,
+			"z" : 65
+		},
+		"scaleRotation" : {
+			"x" : 0.3420772,
+			"y" : 0.1953319,
+			"z" : 225.099854
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"66" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.447509766,
+			"y" : 0.3903122,
+			"z" : 66
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.608407557,
+			"z" : 225.099854
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"67" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4482422,
+			"y" : 0.3784504,
+			"z" : 67
+		},
+		"scaleRotation" : {
+			"x" : 0.137362361,
+			"y" : 0.3499131,
+			"z" : 147.283539
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"68" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4489746,
+			"y" : 0.376930237,
+			"z" : 68
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.270444423,
+			"z" : 151.015427
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"69" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4494629,
+			"y" : 0.3783455,
+			"z" : 69
+		},
+		"scaleRotation" : {
+			"x" : 0.173840642,
+			"y" : 0.270444423,
+			"z" : 151.015427
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"70" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.443115234,
+			"y" : 0.369876862,
+			"z" : 70
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.349913061,
+			"z" : 143.435852
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893229576
+	}
+	},
+	"71" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.469482422,
+			"y" : 0.423973083,
+			"z" : 71
+		},
+		"scaleRotation" : {
+			"x" : 0.137362316,
+			"y" : 0.279942572,
+			"z" : 162.528381
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"72" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.465332031,
+			"y" : 0.41783905,
+			"z" : 72
+		},
+		"scaleRotation" : {
+			"x" : 0.445377916,
+			"y" : 0.3499001,
+			"z" : 97.31051
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246464
+	}
+	},
+	"73" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4675293,
+			"y" : 0.440229416,
+			"z" : 73
+		},
+		"scaleRotation" : {
+			"x" : 0.137362137,
+			"y" : 0.3567349,
+			"z" : 202.5219
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246472
+	}
+	},
+	"74" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4724121,
+			"y" : 0.425912857,
+			"z" : 74
+		},
+		"scaleRotation" : {
+			"x" : 0.2306249,
+			"y" : 0.5579418,
+			"z" : 186.929733
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"75" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4716797,
+			"y" : 0.418273926,
+			"z" : 75
+		},
+		"scaleRotation" : {
+			"x" : 0.2306248,
+			"y" : 0.56928587,
+			"z" : 150.351624
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"76" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4724121,
+			"y" : 0.425912857,
+			"z" : 76
+		},
+		"scaleRotation" : {
+			"x" : 0.2306249,
+			"y" : 0.5579418,
+			"z" : 186.929733
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225480
+	}
+	},
+	"77" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.470214844,
+			"y" : 0.42877388,
+			"z" : 77
+		},
+		"scaleRotation" : {
+			"x" : 2.97136259,
+			"y" : 3.60700965,
+			"z" : 16.58942
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180689
+	}
+	},
+	"78" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.471435547,
+			"y" : 0.433534622,
+			"z" : 78
+		},
+		"scaleRotation" : {
+			"x" : 2.36131763,
+			"y" : 3.607008,
+			"z" : 199.194916
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180689
+	}
+	},
+	"79" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.472167969,
+			"y" : 0.4339943,
+			"z" : 79
+		},
+		"scaleRotation" : {
+			"x" : 2.36131287,
+			"y" : 2.39182186,
+			"z" : 183.853882
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180689
+	}
+	},
+	"80" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.468505859,
+			"y" : 0.4444828,
+			"z" : 80
+		},
+		"scaleRotation" : {
+			"x" : 0.2790501,
+			"y" : 0.2790501,
+			"z" : 208.840378
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246744
+	}
+	},
+	"81" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.468994141,
+			"y" : 0.4466896,
+			"z" : 81
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.208212554,
+			"z" : 132.178452
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246736
+	}
+	},
+	"82" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.470947266,
+			"y" : 0.4395771,
+			"z" : 82
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.208212554,
+			"z" : 132.178452
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246736
+	}
+	},
+	"83" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.467773438,
+			"y" : 0.4089775,
+			"z" : 83
+		},
+		"scaleRotation" : {
+			"x" : 0.137362361,
+			"y" : 0.256066084,
+			"z" : 328.766266
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246736
+	}
+	},
+	"84" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.469482422,
+			"y" : 0.410520554,
+			"z" : 84
+		},
+		"scaleRotation" : {
+			"x" : 0.137362361,
+			"y" : 0.137362361,
+			"z" : 68.96949
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246744
+	}
+	},
+	"85" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.473388672,
+			"y" : 0.4072113,
+			"z" : 85
+		},
+		"scaleRotation" : {
+			"x" : 0.137362286,
+			"y" : 0.137362286,
+			"z" : 4.166985
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246736
+	}
+	},
+	"86" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.468505859,
+			"y" : 0.399713516,
+			"z" : 86
+		},
+		"scaleRotation" : {
+			"x" : 0.1373623,
+			"y" : 0.1373623,
+			"z" : 332.32312
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893246736
+	}
+	},
+	"87" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.467773438,
+			"y" : 0.4098282,
+			"z" : 87
+		},
+		"scaleRotation" : {
+			"x" : 2.68795943,
+			"y" : 2.68795943,
+			"z" : 12.1576977
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180689
+	}
+	},
+	"88" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.447998047,
+			"y" : 0.399698257,
+			"z" : 88
+		},
+		"scaleRotation" : {
+			"x" : 0.137362391,
+			"y" : 0.99728626,
+			"z" : 6.70324039
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"89" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.432861328,
+			"y" : 0.446390152,
+			"z" : 89
+		},
+		"scaleRotation" : {
+			"x" : 0.666438341,
+			"y" : 2.61042786,
+			"z" : 352.342163
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"90" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.430175781,
+			"y" : 0.4724846,
+			"z" : 90
+		},
+		"scaleRotation" : {
+			"x" : 0.6982693,
+			"y" : 0.588758647,
+			"z" : 289.4644
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"91" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.471923828,
+			"y" : 0.415115356,
+			"z" : 91
+		},
+		"scaleRotation" : {
+			"x" : 4.465223,
+			"y" : 2.04535913,
+			"z" : 163.4509
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180689
+	}
+	},
+	"92" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.431884766,
+			"y" : 0.4797821,
+			"z" : 92
+		},
+		"scaleRotation" : {
+			"x" : 4.46522236,
+			"y" : 2.04535842,
+			"z" : 88.01631
+		},
+		"iconPosition" : {
+			"x" : -0.6779095,
+			"y" : 0.27817446,
+			"z" : 0.8800943
+		},
+		"text" : ")",
+		"color" : 4292342524,
+		"packedData" : 4893180689
+	}
+	},
+	"93" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.435546875,
+			"y" : 0.419452667,
+			"z" : 93
+		},
+		"scaleRotation" : {
+			"x" : 0.3954233,
+			"y" : 0.6538439,
+			"z" : 50.96037
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4280886886,
+		"packedData" : 4893244176
+	}
+	},
+	"94" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.429443359,
+			"y" : 0.422403336,
+			"z" : 94
+		},
+		"scaleRotation" : {
+			"x" : 0.417733133,
+			"y" : 0.292627335,
+			"z" : 50.96037
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4286944697,
+		"packedData" : 4893244176
+	}
+	},
+	"95" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.426513672,
+			"y" : 0.431596756,
+			"z" : 95
+		},
+		"scaleRotation" : {
+			"x" : 0.116719261,
+			"y" : 0.284145325,
+			"z" : 44.5860367
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 1409286143,
+		"packedData" : 4893244176
+	}
+	},
+	"96" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4362793,
+			"y" : 0.4173584,
+			"z" : 96
+		},
+		"scaleRotation" : {
+			"x" : 0.286847264,
+			"y" : 0.116719246,
+			"z" : 358.283478
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4283909703,
+		"packedData" : 4893244176
+	}
+	},
+	"97" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.421386719,
+			"y" : 0.4273262,
+			"z" : 97
+		},
+		"scaleRotation" : {
+			"x" : 0.116719216,
+			"y" : 0.2841451,
+			"z" : 62.39639
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 1342177279,
+		"packedData" : 4893244176
+	}
+	},
+	"98" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.422119141,
+			"y" : 0.4301033,
+			"z" : 98
+		},
+		"scaleRotation" : {
+			"x" : 0.395423263,
+			"y" : 0.228903145,
+			"z" : 26.85057
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4280886886,
+		"packedData" : 4893244176
+	}
+	},
+	"99" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4267578,
+			"y" : 0.4189911,
+			"z" : 99
+		},
+		"scaleRotation" : {
+			"x" : 0.5598176,
+			"y" : 0.195836633,
+			"z" : 322.319275
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4281034085,
+		"packedData" : 4893244176
+	}
+	},
+	"100" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.439453125,
+			"y" : 0.409585953,
+			"z" : 100
+		},
+		"scaleRotation" : {
+			"x" : 0.6639,
+			"y" : 0.1958366,
+			"z" : 313.113983
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4281034085,
+		"packedData" : 4893244176
+	}
+	},
+	"101" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.420166016,
+			"y" : 0.423753738,
+			"z" : 101
+		},
+		"scaleRotation" : {
+			"x" : 0.3097291,
+			"y" : 0.116719276,
+			"z" : 301.411926
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4281034085,
+		"packedData" : 4893244176
+	}
+	},
+	"102" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4152832,
+			"y" : 0.4265442,
+			"z" : 102
+		},
+		"scaleRotation" : {
+			"x" : 0.116719253,
+			"y" : 0.116719253,
+			"z" : 15.0850344
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4281034085,
+		"packedData" : 4893244176
+	}
+	},
+	"103" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.455810547,
+			"y" : 0.398841858,
+			"z" : 103
+		},
+		"scaleRotation" : {
+			"x" : 0.506069839,
+			"y" : 0.1576333,
+			"z" : 232.77066
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4281034085,
+		"packedData" : 4893244176
+	}
+	},
+	"104" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.423828125,
+			"y" : 0.433101654,
+			"z" : 104
+		},
+		"scaleRotation" : {
+			"x" : 0.395423323,
+			"y" : 0.228903115,
+			"z" : 7.639454
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 352321535,
+		"packedData" : 4893244176
+	}
+	},
+	"105" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4243164,
+			"y" : 0.435876846,
+			"z" : 105
+		},
+		"scaleRotation" : {
+			"x" : 0.395423323,
+			"y" : 0.228903115,
+			"z" : 7.639454
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 1879048191,
+		"packedData" : 4893244176
+	}
+	},
+	"106" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.441894531,
+			"y" : 0.425312042,
+			"z" : 106
+		},
+		"scaleRotation" : {
+			"x" : 0.205537722,
+			"y" : 0.116719328,
+			"z" : 356.431732
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4294967295,
+		"packedData" : 4893244176
+	}
+	},
+	"107" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.44921875,
+			"y" : 0.416484833,
+			"z" : 107
+		},
+		"scaleRotation" : {
+			"x" : 0.116719328,
+			"y" : 0.116719328,
+			"z" : 356.431732
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4294967295,
+		"packedData" : 4893244176
+	}
+	},
+	"108" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.443847656,
+			"y" : 0.419393539,
+			"z" : 108
+		},
+		"scaleRotation" : {
+			"x" : 0.116719253,
+			"y" : 0.334940821,
+			"z" : 83.66478
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4280426078,
+		"packedData" : 4893243904
+	}
+	},
+	"109" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.410888672,
+			"y" : 0.426460266,
+			"z" : 109
+		},
+		"scaleRotation" : {
+			"x" : 3.355823,
+			"y" : 10.5736589,
+			"z" : 77.31023
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4280299321,
+		"packedData" : 4893180627
+	}
+	},
+	"110" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4189453,
+			"y" : 0.421546936,
+			"z" : 110
+		},
+		"scaleRotation" : {
+			"x" : 5.776483,
+			"y" : 18.7612839,
+			"z" : 82.97875
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4280299321,
+		"packedData" : 4893180579
+	}
+	},
+	"111" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4033203,
+			"y" : 0.430477142,
+			"z" : 111
+		},
+		"scaleRotation" : {
+			"x" : 2.34493756,
+			"y" : 19.4932728,
+			"z" : 54.7030449
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4279308876,
+		"packedData" : 4893180629
+	}
+	},
+	"112" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4255371,
+			"y" : 0.415657043,
+			"z" : 112
+		},
+		"scaleRotation" : {
+			"x" : 1.50216138,
+			"y" : 3.914032,
+			"z" : 62.9276
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4284113333,
+		"packedData" : 4893180625
+	}
+	},
+	"113" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.439453125,
+			"y" : 0.406415939,
+			"z" : 113
+		},
+		"scaleRotation" : {
+			"x" : 1.50216126,
+			"y" : 3.372207,
+			"z" : 236.524658
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4284113333,
+		"packedData" : 4893180625
+	}
+	},
+	"114" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.440673828,
+			"y" : 0.3993683,
+			"z" : 114
+		},
+		"scaleRotation" : {
+			"x" : 2.329977,
+			"y" : 7.63671,
+			"z" : 220.966614
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4287138457,
+		"packedData" : 4893180625
+	}
+	},
+	"115" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438964844,
+			"y" : 0.409009933,
+			"z" : 115
+		},
+		"scaleRotation" : {
+			"x" : 7.988228,
+			"y" : 2.970518,
+			"z" : 305.87616
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"116" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4404297,
+			"y" : 0.4068737,
+			"z" : 116
+		},
+		"scaleRotation" : {
+			"x" : 7.77489853,
+			"y" : 4.31854057,
+			"z" : 308.4228
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4281215077,
+		"packedData" : 4893180625
+	}
+	},
+	"117" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4399414,
+			"y" : 0.4020157,
+			"z" : 117
+		},
+		"scaleRotation" : {
+			"x" : 7.153775,
+			"y" : 1.89189863,
+			"z" : 324.710022
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 1895825407,
+		"packedData" : 4893180625
+	}
+	},
+	"118" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.434082031,
+			"y" : 0.3906746,
+			"z" : 118
+		},
+		"scaleRotation" : {
+			"x" : 2.819187,
+			"y" : 3.72685266,
+			"z" : 267.265625
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4282720321,
+		"packedData" : 4893180689
+	}
+	},
+	"119" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.434082031,
+			"y" : 0.391746521,
+			"z" : 119
+		},
+		"scaleRotation" : {
+			"x" : 0.8437038,
+			"y" : 11.0896425,
+			"z" : 270.1133
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "•",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"120" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.436523438,
+			"y" : 0.4001236,
+			"z" : 120
+		},
+		"scaleRotation" : {
+			"x" : 3.00128,
+			"y" : 3.33526087,
+			"z" : 55.1788979
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4282473323,
+		"packedData" : 4893180625
+	}
+	},
+	"121" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.459228516,
+			"y" : 0.407344818,
+			"z" : 121
+		},
+		"scaleRotation" : {
+			"x" : 0.218157887,
+			"y" : 0.179783687,
+			"z" : 266.4358
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4284443764,
+		"packedData" : 4893244176
+	}
+	},
+	"122" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4501953,
+			"y" : 0.424972534,
+			"z" : 122
+		},
+		"scaleRotation" : {
+			"x" : 3.72887,
+			"y" : 4.701564,
+			"z" : 253.429214
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4284443764,
+		"packedData" : 4893180625
+	}
+	},
+	"123" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438232422,
+			"y" : 0.450101852,
+			"z" : 123
+		},
+		"scaleRotation" : {
+			"x" : 18.77961,
+			"y" : 4.85404444,
+			"z" : 86.33952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "•",
+		"color" : 4284443764,
+		"packedData" : 4893180625
+	}
+	},
+	"124" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.436035156,
+			"y" : 0.446865082,
+			"z" : 124
+		},
+		"scaleRotation" : {
+			"x" : 14.2994261,
+			"y" : 4.85404873,
+			"z" : 71.95836
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "•",
+		"color" : 4284443764,
+		"packedData" : 4893180625
+	}
+	},
+	"125" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.442138672,
+			"y" : 0.4553814,
+			"z" : 125
+		},
+		"scaleRotation" : {
+			"x" : 2.52150059,
+			"y" : 8.092647,
+			"z" : 175.80719
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4283123077,
+		"packedData" : 4893180581
+	}
+	},
+	"126" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4333496,
+			"y" : 0.456672668,
+			"z" : 126
+		},
+		"scaleRotation" : {
+			"x" : 0.417625576,
+			"y" : 1.75187647,
+			"z" : 165.767426
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4292342524,
+		"packedData" : 4893225472
+	}
+	},
+	"127" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.468994141,
+			"y" : 0.401700974,
+			"z" : 127
+		},
+		"scaleRotation" : {
+			"x" : 17.9169636,
+			"y" : 14.1218786,
+			"z" : 251.862808
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4281215077,
+		"packedData" : 4893180625
+	}
+	},
+	"128" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.462402344,
+			"y" : 0.404705048,
+			"z" : 128
+		},
+		"scaleRotation" : {
+			"x" : 8.416947,
+			"y" : 4.82068825,
+			"z" : 251.862808
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4294967295,
+		"packedData" : 4893180627
+	}
+	},
+	"129" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.453125,
+			"y" : 0.4097309,
+			"z" : 129
+		},
+		"scaleRotation" : {
+			"x" : 14.9998426,
+			"y" : 4.505063,
+			"z" : 246.981689
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4285104531,
+		"packedData" : 4893180627
+	}
+	},
+	"130" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.451171875,
+			"y" : 0.4022026,
+			"z" : 130
+		},
+		"scaleRotation" : {
+			"x" : 14.9998331,
+			"y" : 4.50506163,
+			"z" : 274.5738
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4285104531,
+		"packedData" : 4893180627
+	}
+	},
+	"131" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4506836,
+			"y" : 0.399715424,
+			"z" : 131
+		},
+		"scaleRotation" : {
+			"x" : 16.3684483,
+			"y" : 6.11916733,
+			"z" : 304.254272
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4285104531,
+		"packedData" : 4893180627
+	}
+	},
+	"132" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.448730469,
+			"y" : 0.391283035,
+			"z" : 132
+		},
+		"scaleRotation" : {
+			"x" : 0.3285883,
+			"y" : 0.116719276,
+			"z" : 309.8442
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 2737530213,
+		"packedData" : 4893244176
+	}
+	},
+	"133" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.449707031,
+			"y" : 0.414680481,
+			"z" : 133
+		},
+		"scaleRotation" : {
+			"x" : 0.328588367,
+			"y" : 0.116719268,
+			"z" : 252.11142
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 1090519039,
+		"packedData" : 4893244176
+	}
+	},
+	"134" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.445556641,
+			"y" : 0.401714325,
+			"z" : 134
+		},
+		"scaleRotation" : {
+			"x" : 2.163603,
+			"y" : 5.835964,
+			"z" : 358.766663
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 4893180577
+	}
+	},
+	"135" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.447021484,
+			"y" : 0.39466095,
+			"z" : 135
+		},
+		"scaleRotation" : {
+			"x" : 2.1636014,
+			"y" : 5.835961,
+			"z" : 19.510004
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 4893180577
+	}
+	},
+	"136" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4506836,
+			"y" : 0.3973961,
+			"z" : 136
+		},
+		"scaleRotation" : {
+			"x" : 0.116719268,
+			"y" : 0.116719268,
+			"z" : 11.14927
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 2737530213,
+		"packedData" : 4893244176
+	}
+	},
+	"137" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.438232422,
+			"y" : 0.36548996,
+			"z" : 137
+		},
+		"scaleRotation" : {
+			"x" : 3.65023851,
+			"y" : 17.5755539,
+			"z" : 139.005661
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4281034085,
+		"packedData" : 4893180625
+	}
+	},
+	"138" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.439453125,
+			"y" : 0.360248566,
+			"z" : 138
+		},
+		"scaleRotation" : {
+			"x" : 3.65023851,
+			"y" : 13.3011217,
+			"z" : 152.980453
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4281034085,
+		"packedData" : 4893180625
+	}
+	},
+	"139" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.439453125,
+			"y" : 0.36482048,
+			"z" : 139
+		},
+		"scaleRotation" : {
+			"x" : 2.087244,
+			"y" : 15.8700886,
+			"z" : 139.923477
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4280825779,
+		"packedData" : 4893180629
+	}
+	},
+	"140" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4494629,
+			"y" : 0.3768711,
+			"z" : 140
+		},
+		"scaleRotation" : {
+			"x" : 1.5021615,
+			"y" : 3.37220645,
+			"z" : 333.771118
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4284113333,
+		"packedData" : 4893180625
+	}
+	},
+	"141" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4465332,
+			"y" : 0.380065918,
+			"z" : 141
+		},
+		"scaleRotation" : {
+			"x" : 17.7282734,
+			"y" : 1.74323964,
+			"z" : 51.9338036
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"142" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.454589844,
+			"y" : 0.376338959,
+			"z" : 142
+		},
+		"scaleRotation" : {
+			"x" : 2.087245,
+			"y" : 15.8700972,
+			"z" : 208.352112
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4280825779,
+		"packedData" : 4893180629
+	}
+	},
+	"143" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.444824219,
+			"y" : 0.391134262,
+			"z" : 143
+		},
+		"scaleRotation" : {
+			"x" : 1.76698732,
+			"y" : 2.67089462,
+			"z" : 49.4182549
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4284113333,
+		"packedData" : 4893180625
+	}
+	},
+	"144" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.412353516,
+			"y" : 0.468183517,
+			"z" : 144
+		},
+		"scaleRotation" : {
+			"x" : 2.454012,
+			"y" : 1.59440279,
+			"z" : 20.4891243
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4286086018,
+		"packedData" : 4893180421
+	}
+	},
+	"145" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.414794922,
+			"y" : 0.472208023,
+			"z" : 145
+		},
+		"scaleRotation" : {
+			"x" : 1.38475251,
+			"y" : 1.20809793,
+			"z" : 115.02047
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4286086018,
+		"packedData" : 4893180693
+	}
+	},
+	"146" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.420410156,
+			"y" : 0.475580215,
+			"z" : 146
+		},
+		"scaleRotation" : {
+			"x" : 1.38475275,
+			"y" : 1.20809817,
+			"z" : 311.0932
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4286086018,
+		"packedData" : 4893180693
+	}
+	},
+	"147" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.421386719,
+			"y" : 0.4783516,
+			"z" : 147
+		},
+		"scaleRotation" : {
+			"x" : 1.38475227,
+			"y" : 1.20809746,
+			"z" : 83.62874
+		},
+		"iconPosition" : {
+			"x" : -0.676900446,
+			"y" : 0.277173042,
+			"z" : 0.887887657
+		},
+		"text" : "(",
+		"color" : 4286086018,
+		"packedData" : 4893180693
+	}
+	},
+	"148" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.422607422,
+			"y" : 0.480230331,
+			"z" : 148
+		},
+		"scaleRotation" : {
+			"x" : 1.38475227,
+			"y" : 1.20809746,
+			"z" : 9.939128
+		},
+		"iconPosition" : {
+			"x" : -0.6762437,
+			"y" : 0.2782988,
+			"z" : 0.886835158
+		},
+		"text" : "(",
+		"color" : 4286086018,
+		"packedData" : 4893180693
+	}
+	},
+	"149" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.435546875,
+			"y" : 0.454147339,
+			"z" : 149
+		},
+		"scaleRotation" : {
+			"x" : 0.713928342,
+			"y" : 0.2371248,
+			"z" : 77.09789
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 1593835519,
+		"packedData" : 4893243904
+	}
+	},
+	"150" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.415527344,
+			"y" : 0.442035675,
+			"z" : 150
+		},
+		"scaleRotation" : {
+			"x" : 3.11173749,
+			"y" : 3.19250727,
+			"z" : 316.124054
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4286546315,
+		"packedData" : 4893180689
+	}
+	},
+	"151" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4243164,
+			"y" : 0.453678131,
+			"z" : 151
+		},
+		"scaleRotation" : {
+			"x" : 3.50242066,
+			"y" : 4.63737,
+			"z" : 154.223221
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4286546315,
+		"packedData" : 4893180689
+	}
+	},
+	"152" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4177246,
+			"y" : 0.441480637,
+			"z" : 152
+		},
+		"scaleRotation" : {
+			"x" : 3.742576,
+			"y" : 1.619601,
+			"z" : 318.321716
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 4893180689
+	}
+	},
+	"153" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.427734375,
+			"y" : 0.4558506,
+			"z" : 153
+		},
+		"scaleRotation" : {
+			"x" : 0.5261271,
+			"y" : 0.116719231,
+			"z" : 236.333084
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4286546315,
+		"packedData" : 4893243904
+	}
+	},
+	"154" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4309082,
+			"y" : 0.45864296,
+			"z" : 154
+		},
+		"scaleRotation" : {
+			"x" : 12.6896544,
+			"y" : 1.4411695,
+			"z" : 245.254379
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"155" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4243164,
+			"y" : 0.467968,
+			"z" : 155
+		},
+		"scaleRotation" : {
+			"x" : 3.08721614,
+			"y" : 4.38167763,
+			"z" : 96.90364
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4286546315,
+		"packedData" : 4893180625
+	}
+	},
+	"156" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4169922,
+			"y" : 0.4662304,
+			"z" : 156
+		},
+		"scaleRotation" : {
+			"x" : 0.116719216,
+			"y" : 0.242478848,
+			"z" : 103.836952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4283395711,
+		"packedData" : 4893244112
+	}
+	},
+	"157" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.423339844,
+			"y" : 0.468427658,
+			"z" : 157
+		},
+		"scaleRotation" : {
+			"x" : 0.1485991,
+			"y" : 0.302681565,
+			"z" : 96.90364
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4283395711,
+		"packedData" : 4893244112
+	}
+	},
+	"158" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.424560547,
+			"y" : 0.472558975,
+			"z" : 158
+		},
+		"scaleRotation" : {
+			"x" : 0.269004554,
+			"y" : 0.250099152,
+			"z" : 96.90364
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4294967295,
+		"packedData" : 4893244112
+	}
+	},
+	"159" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.41796875,
+			"y" : 0.466407776,
+			"z" : 159
+		},
+		"scaleRotation" : {
+			"x" : 0.6109235,
+			"y" : 2.94623518,
+			"z" : 103.836952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4281480017,
+		"packedData" : 4893180625
+	}
+	},
+	"160" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.414794922,
+			"y" : 0.466161728,
+			"z" : 160
+		},
+		"scaleRotation" : {
+			"x" : 1.10805023,
+			"y" : 1.81170666,
+			"z" : 103.836952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"161" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.416748047,
+			"y" : 0.464479446,
+			"z" : 161
+		},
+		"scaleRotation" : {
+			"x" : 0.361830145,
+			"y" : 0.936769962,
+			"z" : 103.836952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"162" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.414306641,
+			"y" : 0.466554642,
+			"z" : 162
+		},
+		"scaleRotation" : {
+			"x" : 0.758415461,
+			"y" : 1.71940529,
+			"z" : 103.836952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4283981416,
+		"packedData" : 4893180625
+	}
+	},
+	"163" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.524902344,
+			"y" : -0.452934265,
+			"z" : 163
+		},
+		"scaleRotation" : {
+			"x" : 1.59177482,
+			"y" : 2.91462874,
+			"z" : 13.0986538
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4283981416,
+		"packedData" : 4893180625
+	}
+	},
+	"164" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.411865234,
+			"y" : 0.469928741,
+			"z" : 164
+		},
+		"scaleRotation" : {
+			"x" : 0.43198207,
+			"y" : 1.11886919,
+			"z" : 103.836952
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4294967295,
+		"packedData" : 4893180625
+	}
+	},
+	"165" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.41796875,
+			"y" : 0.471830368,
+			"z" : 165
+		},
+		"scaleRotation" : {
+			"x" : 0.532381833,
+			"y" : 1.23778331,
+			"z" : 133.826645
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4283981416,
+		"packedData" : 4893180625
+	}
+	},
+	"166" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.421386719,
+			"y" : 0.4757614,
+			"z" : 166
+		},
+		"scaleRotation" : {
+			"x" : 0.532381654,
+			"y" : 1.23778331,
+			"z" : 228.339386
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4283981416,
+		"packedData" : 4893180625
+	}
+	},
+	"167" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.406738281,
+			"y" : 0.428636551,
+			"z" : 167
+		},
+		"scaleRotation" : {
+			"x" : 1.14015508,
+			"y" : 4.33089542,
+			"z" : 61.4410362
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4282210913,
+		"packedData" : 4893180625
+	}
+	},
+	"168" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4038086,
+			"y" : 0.4178257,
+			"z" : 168
+		},
+		"scaleRotation" : {
+			"x" : 0.5858383,
+			"y" : 4.33089638,
+			"z" : 202.742676
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4282210913,
+		"packedData" : 4893180625
+	}
+	},
+	"169" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4038086,
+			"y" : 0.428667068,
+			"z" : 169
+		},
+		"scaleRotation" : {
+			"x" : 1.67696941,
+			"y" : 2.10339785,
+			"z" : 202.742676
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "●",
+		"color" : 4280821096,
+		"packedData" : 4893180625
+	}
+	},
+	"170" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.406738281,
+			"y" : 0.4189186,
+			"z" : 170
+		},
+		"scaleRotation" : {
+			"x" : 3.02767,
+			"y" : 3.12684441,
+			"z" : 53.8128052
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4280624690,
+		"packedData" : 4893180625
+	}
+	},
+	"171" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.404541016,
+			"y" : 0.41827774,
+			"z" : 171
+		},
+		"scaleRotation" : {
+			"x" : 3.635077,
+			"y" : 2.251663,
+			"z" : 65.82715
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4283453796,
+		"packedData" : 4893180625
+	}
+	},
+	"172" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4091797,
+			"y" : 0.4123211,
+			"z" : 172
+		},
+		"scaleRotation" : {
+			"x" : 2.8956244,
+			"y" : 1.25722837,
+			"z" : 161.551147
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "(",
+		"color" : 4280756273,
+		"packedData" : 4893180689
+	}
+	},
+	"173" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4086914,
+			"y" : 0.406099319,
+			"z" : 173
+		},
+		"scaleRotation" : {
+			"x" : 5.23612976,
+			"y" : 3.8210988,
+			"z" : 161.551147
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4281888633,
+		"packedData" : 4893180625
+	}
+	},
+	"174" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.407958984,
+			"y" : 0.442602158,
+			"z" : 174
+		},
+		"scaleRotation" : {
+			"x" : 12.5023689,
+			"y" : 3.64049387,
+			"z" : 312.2576
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4286414474,
+		"packedData" : 4893180625
+	}
+	},
+	"175" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.402832031,
+			"y" : 0.437431335,
+			"z" : 175
+		},
+		"scaleRotation" : {
+			"x" : 11.4533548,
+			"y" : 2.591496,
+			"z" : 253.640533
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4283915122,
+		"packedData" : 4893180625
+	}
+	},
+	"176" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4008789,
+			"y" : 0.436170578,
+			"z" : 176
+		},
+		"scaleRotation" : {
+			"x" : 18.7199116,
+			"y" : 2.59149456,
+			"z" : 257.543182
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ".",
+		"color" : 4283915122,
+		"packedData" : 4893180625
+	}
+	},
+	"177" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4741211,
+			"y" : 0.422590256,
+			"z" : 177
+		},
+		"scaleRotation" : {
+			"x" : 3.074542,
+			"y" : 2.886033,
+			"z" : 344.845184
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4283714422,
+		"packedData" : 4893180417
+	}
+	},
+	"178" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.4650879,
+			"y" : 0.4126892,
+			"z" : 178
+		},
+		"scaleRotation" : {
+			"x" : 1.81470776,
+			"y" : 1.33006585,
+			"z" : 64.0947647
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : ")",
+		"color" : 4283714422,
+		"packedData" : 4893180417
+	}
+	},
+	"179" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.467285156,
+			"y" : 0.43797493,
+			"z" : 179
+		},
+		"scaleRotation" : {
+			"x" : 1.1524775,
+			"y" : 2.71472979,
+			"z" : 198.784317
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "))",
+		"color" : 4284114284,
+		"packedData" : 4893180705
+	}
+	},
+	"180" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.470214844,
+			"y" : 0.42131424,
+			"z" : 180
+		},
+		"scaleRotation" : {
+			"x" : 1.15247726,
+			"y" : 2.71472883,
+			"z" : 354.7437
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "))",
+		"color" : 4284114284,
+		"packedData" : 4893180705
+	}
+	},
+	"181" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.321044922,
+			"y" : 0.718265533,
+			"z" : 181
+		},
+		"scaleRotation" : {
+			"x" : 1.20010412,
+			"y" : 1.1389873,
+			"z" : 99.42396
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 4278205735,
+		"packedData" : 4893225472
+	}
+	},
+	"182" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : 0.470947266,
+			"y" : 0.4937935,
+			"z" : 182
+		},
+		"scaleRotation" : {
+			"x" : 3.26400948,
+			"y" : 10.3635025,
+			"z" : 91.9845352
+		},
+		"iconPosition" : {
+			"x" : -0.706974,
+			"y" : 0.243939459,
+			"z" : 0.8761335
+		},
+		"text" : "",
+		"color" : 436207615,
+		"packedData" : 4893244928
+	}
+	},
+	"183" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.467773438,
+			"y" : 0.44112587,
+			"z" : 183
+		},
+		"scaleRotation" : {
+			"x" : -1.19798362,
+			"y" : 8.249202,
+			"z" : 357.896454
+		},
+		"iconPosition" : {
+			"x" : 0.00304484367,
+			"y" : 0.0124777826,
+			"z" : 2.42474556
+		},
+		"text" : "",
+		"color" : 4279742718,
+		"packedData" : 6524764160
+	}
+	},
+	"184" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.454589844,
+			"y" : 0.442049026,
+			"z" : 184
+		},
+		"scaleRotation" : {
+			"x" : 0.6088337,
+			"y" : 0.577827632,
+			"z" : 104.758606
+		},
+		"iconPosition" : {
+			"x" : -0.004829526,
+			"y" : 0.01260679,
+			"z" : 2.42429137
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809728
+	}
+	},
+	"185" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.462646484,
+			"y" : 0.446956635,
+			"z" : 185
+		},
+		"scaleRotation" : {
+			"x" : 0.3744003,
+			"y" : 0.8294329,
+			"z" : 250.486481
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809728
+	}
+	},
+	"186" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.456542969,
+			"y" : 0.4494648,
+			"z" : 186
+		},
+		"scaleRotation" : {
+			"x" : 0.374400616,
+			"y" : 0.23081702,
+			"z" : 323.314117
+		},
+		"iconPosition" : {
+			"x" : -0.00366508961,
+			"y" : 0.0142913749,
+			"z" : 2.42022848
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524768264
+	}
+	},
+	"187" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.469482422,
+			"y" : 0.474832535,
+			"z" : 187
+		},
+		"scaleRotation" : {
+			"x" : 0.112538129,
+			"y" : 0.4263359,
+			"z" : 303.04425
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"188" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.474853516,
+			"y" : 0.4700203,
+			"z" : 188
+		},
+		"scaleRotation" : {
+			"x" : 0.1464501,
+			"y" : 0.09747984,
+			"z" : 282.89502
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"189" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.469726563,
+			"y" : 0.470651627,
+			"z" : 189
+		},
+		"scaleRotation" : {
+			"x" : 0.233160138,
+			"y" : 0.120283552,
+			"z" : 10.44733
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"190" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.464355469,
+			"y" : 0.46808815,
+			"z" : 190
+		},
+		"scaleRotation" : {
+			"x" : 0.317183137,
+			"y" : 0.835205436,
+			"z" : 6.443167
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"191" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4580078,
+			"y" : 0.4400978,
+			"z" : 191
+		},
+		"scaleRotation" : {
+			"x" : 0.3171829,
+			"y" : 0.655486465,
+			"z" : 35.24029
+		},
+		"iconPosition" : {
+			"x" : -0.002776146,
+			"y" : 0.0122216735,
+			"z" : 2.42539215
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"192" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.478759766,
+			"y" : 0.4469452,
+			"z" : 192
+		},
+		"scaleRotation" : {
+			"x" : 0.06968632,
+			"y" : 0.2562152,
+			"z" : 26.3992
+		},
+		"iconPosition" : {
+			"x" : 0.009597063,
+			"y" : 0.01365709,
+			"z" : 2.42137384
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"193" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4765625,
+			"y" : 0.444034576,
+			"z" : 193
+		},
+		"scaleRotation" : {
+			"x" : 0.08694301,
+			"y" : 0.200902537,
+			"z" : 31.6748314
+		},
+		"iconPosition" : {
+			"x" : 0.008289337,
+			"y" : 0.0130302673,
+			"z" : 2.42301
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"194" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.474609375,
+			"y" : 0.4418354,
+			"z" : 194
+		},
+		"scaleRotation" : {
+			"x" : 0.112771191,
+			"y" : 0.200902537,
+			"z" : 31.6748314
+		},
+		"iconPosition" : {
+			"x" : 0.007125616,
+			"y" : 0.0125608426,
+			"z" : 2.42424965
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"195" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.474609375,
+			"y" : 0.4505062,
+			"z" : 195
+		},
+		"scaleRotation" : {
+			"x" : 0.1471066,
+			"y" : 0.38062048,
+			"z" : 69.3782654
+		},
+		"iconPosition" : {
+			"x" : 0.00709176064,
+			"y" : 0.014520023,
+			"z" : 2.41944122
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"196" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4794922,
+			"y" : 0.450717926,
+			"z" : 196
+		},
+		"scaleRotation" : {
+			"x" : 0.14097023,
+			"y" : 0.1921535,
+			"z" : 151.1939
+		},
+		"iconPosition" : {
+			"x" : 0.01002121,
+			"y" : 0.01449931,
+			"z" : 2.41927433
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"197" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.471435547,
+			"y" : 0.460559845,
+			"z" : 197
+		},
+		"scaleRotation" : {
+			"x" : 0.140970275,
+			"y" : 0.40781495,
+			"z" : 147.257156
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"198" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4621582,
+			"y" : 0.4637127,
+			"z" : 198
+		},
+		"scaleRotation" : {
+			"x" : 0.140970334,
+			"y" : 0.407815516,
+			"z" : 188.134552
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"199" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.466796875,
+			"y" : 0.4547062,
+			"z" : 199
+		},
+		"scaleRotation" : {
+			"x" : 0.445710331,
+			"y" : 0.6400312,
+			"z" : 316.553833
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524766728
+	}
+	},
+	"200" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4663086,
+			"y" : 0.4594555,
+			"z" : 200
+		},
+		"scaleRotation" : {
+			"x" : 0.3363977,
+			"y" : 0.6400305,
+			"z" : 325.39624
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524766728
+	}
+	},
+	"201" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.474853516,
+			"y" : 0.4541092,
+			"z" : 201
+		},
+		"scaleRotation" : {
+			"x" : 0.606568038,
+			"y" : 0.173097759,
+			"z" : 325.39624
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"202" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.481201172,
+			"y" : 0.454071045,
+			"z" : 202
+		},
+		"scaleRotation" : {
+			"x" : 0.3612144,
+			"y" : 0.09002544,
+			"z" : 265.728333
+		},
+		"iconPosition" : {
+			"x" : 0.0110347271,
+			"y" : 0.0152330184,
+			"z" : 2.417398
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"203" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.481689453,
+			"y" : 0.4482975,
+			"z" : 203
+		},
+		"scaleRotation" : {
+			"x" : 0.195487171,
+			"y" : 0.09092926,
+			"z" : 275.516479
+		},
+		"iconPosition" : {
+			"x" : 0.0113497972,
+			"y" : 0.0139215067,
+			"z" : 2.42059422
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524813832
+	}
+	},
+	"204" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.471435547,
+			"y" : 0.474004745,
+			"z" : 204
+		},
+		"scaleRotation" : {
+			"x" : 1.52361429,
+			"y" : 1.93358755,
+			"z" : 125.555466
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4278190080,
+		"packedData" : 6524764953
+	}
+	},
+	"205" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.470458984,
+			"y" : 0.4709587,
+			"z" : 205
+		},
+		"scaleRotation" : {
+			"x" : 1.523614,
+			"y" : 1.93358874,
+			"z" : 115.187714
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ")",
+		"color" : 4278190080,
+		"packedData" : 6524764953
+	}
+	},
+	"206" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.470947266,
+			"y" : 0.472414017,
+			"z" : 206
+		},
+		"scaleRotation" : {
+			"x" : 0.06968632,
+			"y" : 0.1866626,
+			"z" : 203.501083
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524764440
+	}
+	},
+	"207" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.470947266,
+			"y" : 0.461265564,
+			"z" : 207
+		},
+		"scaleRotation" : {
+			"x" : 0.140970245,
+			"y" : 0.335927844,
+			"z" : 136.174469
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"208" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.466552734,
+			"y" : 0.475067139,
+			"z" : 208
+		},
+		"scaleRotation" : {
+			"x" : 0.2995186,
+			"y" : 0.114137396,
+			"z" : 121.0677
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524813824
+	}
+	},
+	"209" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.46875,
+			"y" : 0.474266052,
+			"z" : 209
+		},
+		"scaleRotation" : {
+			"x" : 0.2995186,
+			"y" : 0.114137396,
+			"z" : 121.0677
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524813824
+	}
+	},
+	"210" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.469238281,
+			"y" : 0.475271225,
+			"z" : 210
+		},
+		"scaleRotation" : {
+			"x" : 0.06968629,
+			"y" : 0.149428025,
+			"z" : 247.413
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"211" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.469482422,
+			"y" : 0.475852966,
+			"z" : 211
+		},
+		"scaleRotation" : {
+			"x" : 0.06968629,
+			"y" : 0.14942807,
+			"z" : 243.918243
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"212" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.464355469,
+			"y" : 0.475624084,
+			"z" : 212
+		},
+		"scaleRotation" : {
+			"x" : 0.06968636,
+			"y" : 0.16080977,
+			"z" : 130.4587
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"213" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4609375,
+			"y" : 0.458362579,
+			"z" : 213
+		},
+		"scaleRotation" : {
+			"x" : 0.0696863458,
+			"y" : 0.160809681,
+			"z" : 95.04561
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"214" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.461181641,
+			"y" : 0.460104,
+			"z" : 214
+		},
+		"scaleRotation" : {
+			"x" : 0.0696863458,
+			"y" : 0.160809711,
+			"z" : 119.232841
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"215" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.461914063,
+			"y" : 0.464004517,
+			"z" : 215
+		},
+		"scaleRotation" : {
+			"x" : 0.118705437,
+			"y" : 0.1967533,
+			"z" : 103.876923
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"216" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.462646484,
+			"y" : 0.465467453,
+			"z" : 216
+		},
+		"scaleRotation" : {
+			"x" : 0.0696862638,
+			"y" : 0.196752965,
+			"z" : 63.03863
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"217" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.460449219,
+			"y" : 0.4680252,
+			"z" : 217
+		},
+		"scaleRotation" : {
+			"x" : 0.06968638,
+			"y" : 0.196753472,
+			"z" : 57.2137756
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"218" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.462646484,
+			"y" : 0.457242966,
+			"z" : 218
+		},
+		"scaleRotation" : {
+			"x" : 0.06968633,
+			"y" : 0.217098087,
+			"z" : 91.69969
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"219" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.46484375,
+			"y" : 0.4582653,
+			"z" : 219
+		},
+		"scaleRotation" : {
+			"x" : 0.06968633,
+			"y" : 0.217098087,
+			"z" : 91.69969
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"220" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.462646484,
+			"y" : 0.4588127,
+			"z" : 220
+		},
+		"scaleRotation" : {
+			"x" : 0.08119922,
+			"y" : 0.217097864,
+			"z" : 106.965469
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"221" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4572754,
+			"y" : 0.460166931,
+			"z" : 221
+		},
+		"scaleRotation" : {
+			"x" : 0.06968627,
+			"y" : 0.06968627,
+			"z" : 80.6904144
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"222" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.458984375,
+			"y" : 0.4716282,
+			"z" : 222
+		},
+		"scaleRotation" : {
+			"x" : 0.06968632,
+			"y" : 0.06968632,
+			"z" : 63.90803
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"223" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.458984375,
+			"y" : 0.47233963,
+			"z" : 223
+		},
+		"scaleRotation" : {
+			"x" : 0.06968631,
+			"y" : 0.105629914,
+			"z" : 96.32028
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"224" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.457763672,
+			"y" : 0.468717575,
+			"z" : 224
+		},
+		"scaleRotation" : {
+			"x" : 0.069686316,
+			"y" : 0.105629951,
+			"z" : 41.82014
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"225" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4621582,
+			"y" : 0.4761448,
+			"z" : 225
+		},
+		"scaleRotation" : {
+			"x" : 0.06968631,
+			"y" : 0.105629891,
+			"z" : 48.0891266
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"226" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4580078,
+			"y" : 0.473917,
+			"z" : 226
+		},
+		"scaleRotation" : {
+			"x" : 0.0696862862,
+			"y" : 0.0696862862,
+			"z" : 72.38988
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"227" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.458251953,
+			"y" : 0.4620819,
+			"z" : 227
+		},
+		"scaleRotation" : {
+			"x" : 0.069686316,
+			"y" : 0.069686316,
+			"z" : 90.16014
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"228" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.461914063,
+			"y" : 0.4674759,
+			"z" : 228
+		},
+		"scaleRotation" : {
+			"x" : 0.8051486,
+			"y" : 0.1242634,
+			"z" : 101.236641
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"229" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4567871,
+			"y" : 0.432247162,
+			"z" : 229
+		},
+		"scaleRotation" : {
+			"x" : 0.09999655,
+			"y" : 0.167087719,
+			"z" : 85.40116
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809728
+	}
+	},
+	"230" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4633789,
+			"y" : 0.43223,
+			"z" : 230
+		},
+		"scaleRotation" : {
+			"x" : 0.0877179354,
+			"y" : 0.140753448,
+			"z" : 85.40116
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809728
+	}
+	},
+	"231" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.466064453,
+			"y" : 0.4318428,
+			"z" : 231
+		},
+		"scaleRotation" : {
+			"x" : 0.173190936,
+			"y" : 0.09144589,
+			"z" : 2.95299459
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524813824
+	}
+	},
+	"232" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.460205078,
+			"y" : 0.43261528,
+			"z" : 232
+		},
+		"scaleRotation" : {
+			"x" : 0.232187837,
+			"y" : 0.06968634,
+			"z" : 2.95299459
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809728
+	}
+	},
+	"233" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4580078,
+			"y" : 0.437335968,
+			"z" : 233
+		},
+		"scaleRotation" : {
+			"x" : 0.213460654,
+			"y" : 0.141567037,
+			"z" : 174.219833
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"234" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4506836,
+			"y" : 0.434171677,
+			"z" : 234
+		},
+		"scaleRotation" : {
+			"x" : 0.213460729,
+			"y" : 0.122016147,
+			"z" : 211.219742
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"235" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.454589844,
+			"y" : 0.424713135,
+			"z" : 235
+		},
+		"scaleRotation" : {
+			"x" : 0.171924844,
+			"y" : 0.0990953147,
+			"z" : 230.4345
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"236" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4506836,
+			"y" : 0.4302864,
+			"z" : 236
+		},
+		"scaleRotation" : {
+			"x" : 0.1735418,
+			"y" : 0.0990953147,
+			"z" : 230.4345
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"237" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.453857422,
+			"y" : 0.432512283,
+			"z" : 237
+		},
+		"scaleRotation" : {
+			"x" : 0.0696863,
+			"y" : 0.308655947,
+			"z" : 230.4345
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"238" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.453369141,
+			"y" : 0.426557541,
+			"z" : 238
+		},
+		"scaleRotation" : {
+			"x" : 0.06968629,
+			"y" : 0.177516967,
+			"z" : 152.6182
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"239" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.452880859,
+			"y" : 0.4258232,
+			"z" : 239
+		},
+		"scaleRotation" : {
+			"x" : 0.06968629,
+			"y" : 0.137201175,
+			"z" : 156.350082
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"240" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.452636719,
+			"y" : 0.426555634,
+			"z" : 240
+		},
+		"scaleRotation" : {
+			"x" : 0.08819237,
+			"y" : 0.137201175,
+			"z" : 156.350082
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"241" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.455810547,
+			"y" : 0.421970367,
+			"z" : 241
+		},
+		"scaleRotation" : {
+			"x" : 0.069686316,
+			"y" : 0.177516982,
+			"z" : 148.770477
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524813832
+	}
+	},
+	"242" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.444824219,
+			"y" : 0.450559616,
+			"z" : 242
+		},
+		"scaleRotation" : {
+			"x" : 0.06968634,
+			"y" : 0.142019838,
+			"z" : 167.863052
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"243" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4465332,
+			"y" : 0.447258,
+			"z" : 243
+		},
+		"scaleRotation" : {
+			"x" : 0.225947961,
+			"y" : 0.177510485,
+			"z" : 102.645164
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830720
+	}
+	},
+	"244" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4465332,
+			"y" : 0.4586773,
+			"z" : 244
+		},
+		"scaleRotation" : {
+			"x" : 0.06968621,
+			"y" : 0.180977851,
+			"z" : 207.856522
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830728
+	}
+	},
+	"245" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.443115234,
+			"y" : 0.45167923,
+			"z" : 245
+		},
+		"scaleRotation" : {
+			"x" : 0.116999984,
+			"y" : 0.283053547,
+			"z" : 192.264374
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"246" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.443359375,
+			"y" : 0.447771072,
+			"z" : 246
+		},
+		"scaleRotation" : {
+			"x" : 0.116999947,
+			"y" : 0.288808584,
+			"z" : 155.686264
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"247" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.443115234,
+			"y" : 0.45167923,
+			"z" : 247
+		},
+		"scaleRotation" : {
+			"x" : 0.116999984,
+			"y" : 0.283053547,
+			"z" : 192.264374
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524809736
+	}
+	},
+	"248" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.444824219,
+			"y" : 0.452999115,
+			"z" : 248
+		},
+		"scaleRotation" : {
+			"x" : 1.50742424,
+			"y" : 1.82989955,
+			"z" : 21.92406
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ")",
+		"color" : 4278190080,
+		"packedData" : 6524764945
+	}
+	},
+	"249" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.444335938,
+			"y" : 0.455471039,
+			"z" : 249
+		},
+		"scaleRotation" : {
+			"x" : 1.19793689,
+			"y" : 1.82989657,
+			"z" : 204.529572
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ")",
+		"color" : 4278190080,
+		"packedData" : 6524764945
+	}
+	},
+	"250" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.443847656,
+			"y" : 0.45573616,
+			"z" : 250
+		},
+		"scaleRotation" : {
+			"x" : 1.19793677,
+			"y" : 1.213415,
+			"z" : 189.188538
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ")",
+		"color" : 4278190080,
+		"packedData" : 6524764945
+	}
+	},
+	"251" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4465332,
+			"y" : 0.460849762,
+			"z" : 251
+		},
+		"scaleRotation" : {
+			"x" : 0.141567111,
+			"y" : 0.141567111,
+			"z" : 214.175
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524831000
+	}
+	},
+	"252" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.446044922,
+			"y" : 0.4620018,
+			"z" : 252
+		},
+		"scaleRotation" : {
+			"x" : 0.06968632,
+			"y" : 0.105629981,
+			"z" : 137.5131
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830992
+	}
+	},
+	"253" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.444824219,
+			"y" : 0.458501816,
+			"z" : 253
+		},
+		"scaleRotation" : {
+			"x" : 0.06968632,
+			"y" : 0.105629981,
+			"z" : 137.5131
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830992
+	}
+	},
+	"254" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4453125,
+			"y" : 0.442886353,
+			"z" : 254
+		},
+		"scaleRotation" : {
+			"x" : 0.06968637,
+			"y" : 0.129906848,
+			"z" : 334.100952
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830992
+	}
+	},
+	"255" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.444335938,
+			"y" : 0.4437542,
+			"z" : 255
+		},
+		"scaleRotation" : {
+			"x" : 0.06968628,
+			"y" : 0.06968628,
+			"z" : 74.30412
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524831000
+	}
+	},
+	"256" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4423828,
+			"y" : 0.442256927,
+			"z" : 256
+		},
+		"scaleRotation" : {
+			"x" : 0.0696863458,
+			"y" : 0.0696863458,
+			"z" : 9.501635
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830992
+	}
+	},
+	"257" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4440918,
+			"y" : 0.4382515,
+			"z" : 257
+		},
+		"scaleRotation" : {
+			"x" : 0.0696863,
+			"y" : 0.0696863,
+			"z" : 337.657745
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4278190080,
+		"packedData" : 6524830992
+	}
+	},
+	"258" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4453125,
+			"y" : 0.443319321,
+			"z" : 258
+		},
+		"scaleRotation" : {
+			"x" : 1.363649,
+			"y" : 1.363649,
+			"z" : 17.49234
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ")",
+		"color" : 4278190080,
+		"packedData" : 6524764945
+	}
+	},
+	"259" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.7531738,
+			"y" : 0.5086956,
+			"z" : 259
+		},
+		"scaleRotation" : {
+			"x" : 4.42949,
+			"y" : 4.42949,
+			"z" : 0.64794606
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 1627389952,
+		"packedData" : 6524809728
+	}
+	},
+	"260" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.454101563,
+			"y" : 0.4352455,
+			"z" : 260
+		},
+		"scaleRotation" : {
+			"x" : 1.944925,
+			"y" : 1.78201127,
+			"z" : 357.029755
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4282242815,
+		"packedData" : 6524764673
+	}
+	},
+	"261" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.461669922,
+			"y" : 0.439805984,
+			"z" : 261
+		},
+		"scaleRotation" : {
+			"x" : 2.194379,
+			"y" : 2.52659345,
+			"z" : 248.898834
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4282242815,
+		"packedData" : 6524764673
+	}
+	},
+	"262" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.462402344,
+			"y" : 0.444261551,
+			"z" : 262
+		},
+		"scaleRotation" : {
+			"x" : 1.38705826,
+			"y" : 1.62870038,
+			"z" : 81.66432
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 6524764947
+	}
+	},
+	"263" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.461914063,
+			"y" : 0.464687347,
+			"z" : 263
+		},
+		"scaleRotation" : {
+			"x" : 1.33599555,
+			"y" : 3.050422,
+			"z" : 184.6852
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 6524764673
+	}
+	},
+	"264" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.459228516,
+			"y" : 0.4503231,
+			"z" : 264
+		},
+		"scaleRotation" : {
+			"x" : 1.387058,
+			"y" : 1.62870038,
+			"z" : 72.20962
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 6524764947
+	}
+	},
+	"265" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4675293,
+			"y" : 0.45860672,
+			"z" : 265
+		},
+		"scaleRotation" : {
+			"x" : 1.38705873,
+			"y" : 0.848414,
+			"z" : 283.409058
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 6524764947
+	}
+	},
+	"266" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.476806641,
+			"y" : 0.4512806,
+			"z" : 266
+		},
+		"scaleRotation" : {
+			"x" : 1.3870585,
+			"y" : 0.848413765,
+			"z" : 284.950317
+		},
+		"iconPosition" : {
+			"x" : 0.008407474,
+			"y" : 0.0146641172,
+			"z" : 2.41898966
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 6524764947
+	}
+	},
+	"267" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.443115234,
+			"y" : 0.4501915,
+			"z" : 267
+		},
+		"scaleRotation" : {
+			"x" : 1.94492459,
+			"y" : 1.78201079,
+			"z" : 182.326218
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4294967295,
+		"packedData" : 6524764673
+	}
+	},
+	"268" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.470458984,
+			"y" : 0.472377777,
+			"z" : 268
+		},
+		"scaleRotation" : {
+			"x" : 2.047731,
+			"y" : 2.047731,
+			"z" : 303.1478
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ",",
+		"color" : 4294901731,
+		"packedData" : 6524764673
+	}
+	},
+	"269" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.467773438,
+			"y" : 0.490098953,
+			"z" : 269
+		},
+		"scaleRotation" : {
+			"x" : 0.03255933,
+			"y" : 4.888552,
+			"z" : 270.9789
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4283143945,
+		"packedData" : 6524764160
+	}
+	},
+	"270" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4645996,
+			"y" : 0.486820221,
+			"z" : 270
+		},
+		"scaleRotation" : {
+			"x" : 0.03255933,
+			"y" : 5.0811615,
+			"z" : 270.9789
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4294967295,
+		"packedData" : 6524764160
+	}
+	},
+	"271" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4645996,
+			"y" : 0.483892441,
+			"z" : 271
+		},
+		"scaleRotation" : {
+			"x" : 0.03255933,
+			"y" : 4.881138,
+			"z" : 270.9789
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 4280556270,
+		"packedData" : 6524764160
+	}
+	},
+	"272" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.479980469,
+			"y" : 0.412899017,
+			"z" : 272
+		},
+		"scaleRotation" : {
+			"x" : 3.30173683,
+			"y" : 2.27703452,
+			"z" : 0.64794606
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "F",
+		"color" : 4278190080,
+		"packedData" : 6524764849
+	}
+	},
+	"273" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.4650879,
+			"y" : 0.425148,
+			"z" : 273
+		},
+		"scaleRotation" : {
+			"x" : 11.5650024,
+			"y" : 3.19738173,
+			"z" : 0.448651165
+		},
+		"iconPosition" : {
+			"x" : 0.0014756918,
+			"y" : 0.008923678,
+			"z" : 2.43359971
+		},
+		"text" : "_",
+		"color" : 4278190080,
+		"packedData" : 6524764849
+	}
+	},
+	"274" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.458984375,
+			"y" : 0.412307739,
+			"z" : 274
+		},
+		"scaleRotation" : {
+			"x" : 4.1187644,
+			"y" : 4.13040161,
+			"z" : 359.538635
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "errari",
+		"color" : 4278190080,
+		"packedData" : 6524764837
+	}
+	},
+	"275" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.464355469,
+			"y" : 0.470939636,
+			"z" : 275
+		},
+		"scaleRotation" : {
+			"x" : 2.29445362,
+			"y" : 5.45842934,
+			"z" : 233.727661
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : ",",
+		"color" : 4294967295,
+		"packedData" : 6524764897
+	}
+	},
+	"276" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.452392578,
+			"y" : 0.43447876,
+			"z" : 276
+		},
+		"scaleRotation" : {
+			"x" : 1.68150556,
+			"y" : 1.12846839,
+			"z" : 1.14784694
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "(",
+		"color" : 4292342524,
+		"packedData" : 6524764673
+	}
+	},
+	"277" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.493164063,
+			"y" : 0.4494152,
+			"z" : 277
+		},
+		"scaleRotation" : {
+			"x" : 0.134026527,
+			"y" : 6.42480755,
+			"z" : 0.64794606
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 1577058304,
+		"packedData" : 6524773376
+	}
+	},
+	"278" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.431152344,
+			"y" : 0.4560032,
+			"z" : 278
+		},
+		"scaleRotation" : {
+			"x" : 0.134026527,
+			"y" : 6.42480755,
+			"z" : 0.64794606
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 2164260863,
+		"packedData" : 6524773384
+	}
+	},
+	"279" : {
+		"__type" : "DataEntities.Vinyl.VinylData,Assembly-CSharp",
+		"value" : {
+		"position" : {
+			"x" : -0.472167969,
+			"y" : 0.48623085,
+			"z" : 279
+		},
+		"scaleRotation" : {
+			"x" : 0.8373669,
+			"y" : 0.134026527,
+			"z" : 0.64794606
+		},
+		"iconPosition" : {
+			"x" : -0.0104726553,
+			"y" : 0.0134560652,
+			"z" : 2.42179012
+		},
+		"text" : "",
+		"color" : 1526726656,
+		"packedData" : 6524827648
+	}
+	}
+}
